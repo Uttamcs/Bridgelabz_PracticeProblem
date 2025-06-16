@@ -1,1 +1,1 @@
-/.metadata/
+rm -rf folder-name/.metadata/
